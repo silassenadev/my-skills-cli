@@ -1,8 +1,8 @@
 {
-  "name": "skills",
-  "version": "1.0.0",
+  "name": "ssdevskills",
+  "version": "1.0.2",
   "type": "module",
   "bin": {
-    "skills": "./bin/skills.js"
+    "ssdevskills": "bin/skills.js"
   }
 }
